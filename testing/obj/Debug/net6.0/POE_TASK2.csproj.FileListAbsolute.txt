@@ -1,0 +1,30 @@
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.csproj.AssemblyReference.cache
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.AssemblyInfoInputs.cache
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.AssemblyInfo.cs
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.csproj.CoreCompileInputs.cache
+C:\Users\Phea\source\repos\testing\testing\bin\Debug\net6.0\POE_TASK2.exe
+C:\Users\Phea\source\repos\testing\testing\bin\Debug\net6.0\POE_TASK2.deps.json
+C:\Users\Phea\source\repos\testing\testing\bin\Debug\net6.0\POE_TASK2.runtimeconfig.json
+C:\Users\Phea\source\repos\testing\testing\bin\Debug\net6.0\POE_TASK2.dll
+C:\Users\Phea\source\repos\testing\testing\bin\Debug\net6.0\POE_TASK2.pdb
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.dll
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\refint\POE_TASK2.dll
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.pdb
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\POE_TASK2.genruntimeconfig.cache
+C:\Users\Phea\source\repos\testing\testing\obj\Debug\net6.0\ref\POE_TASK2.dll
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\bin\Debug\net6.0\POE_TASK2.exe
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\bin\Debug\net6.0\POE_TASK2.deps.json
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\bin\Debug\net6.0\POE_TASK2.runtimeconfig.json
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\bin\Debug\net6.0\POE_TASK2.dll
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\bin\Debug\net6.0\POE_TASK2.pdb
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.csproj.AssemblyReference.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.AssemblyInfoInputs.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.AssemblyInfo.cs
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.csproj.CoreCompileInputs.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.dll
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\refint\POE_TASK2.dll
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.pdb
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\POE_TASK2.genruntimeconfig.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 1\Programming 2A\FINAL_POE_ST10090362_pheagane_ramosa_PROG\TASK2\testing\testing\obj\Debug\net6.0\ref\POE_TASK2.dll
